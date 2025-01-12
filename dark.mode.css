@@ -886,7 +886,7 @@ html.theme-dark {
 }
 
 #app-mount .info_c5a741 .line_c5a741:last-child:after {
-    content: "Chillax " var(--cl-appearance) " 🎮";
+    content: "HELLo " var(--cl-appearance) " 🎮";
     display: block;
 }
 
